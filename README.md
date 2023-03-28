@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Battua Budgeting**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Android Apps, Flutter, DSA**
 
